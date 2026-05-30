@@ -1,1 +1,1 @@
-## 🔗 [Live Demo](https://vivdenk7.github.io/ballmachineprototype/)
+## 🔗 [Click Me!](https://vivdenk7.github.io/ballmachineprototype/)
